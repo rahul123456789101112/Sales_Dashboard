@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshot.png)
 
 
 ## Acknowledgments

@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](https://github.com/rahul123456789101112/Sales_Dashboard/blob/main/Screenshot.png)
 
 
 ## Acknowledgments

@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 2. **Open the project in Power BI Desktop.**
 3. **Explore the data model and customize visuals as needed.**
 
-## Screenshots
+## Screenshot
 
 ![Dashboard Preview](https://github.com/rahul123456789101112/Sales_Dashboard/blob/main/Screenshot.png)
 

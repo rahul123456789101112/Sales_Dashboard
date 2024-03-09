@@ -23,15 +23,9 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sales-dashboard.git
+   git clone https://github.com/rahul123456789101112/Sales_Dashboard
 2. **Open the project in Power BI Desktop.**
 3. **Explore the data model and customize visuals as needed.**
-
-## Usage
-
-1. **Open the Power BI file in Power BI Desktop.**
-2. **Refresh data if needed.**
-3. **Interact with the visuals to gain insights into your sales data.**
 
 ## Screenshots
 
@@ -44,4 +38,4 @@ Before you begin, ensure you have the following installed:
 
 ## Contact
 
-For any questions or feedback, feel free to contact us at your-email@example.com.
+For any questions or feedback, feel free to contact us at rahuljat7851@gmail.com & raul7851@gmail.com.
